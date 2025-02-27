@@ -9,15 +9,17 @@ A Fask-based web application that retrieves SVN logs, processes them, and export
 ✅ Modern UI – Clean design with animations and smooth effects.  
 ✅ Mouse-Interactive Background – Dynamic background color changes based on cursor movement.  
 ✅ Mobile Responsive – Works across all devices.  
-
+```
 ### 1️⃣ **Clone the Repository**
 
 ```sh
 git clone https://github.com/Harsha0304/SVN-LOGS.git
 cd SVN-LOGS
+
 ```
 ### 2️⃣ **Install Dependencies**
 Make sure you have **Python 3.6+** installed. Then, install Flask:  
+
 ```sh
 pip install flask
 ```
@@ -92,14 +94,10 @@ Want to improve this project? Follow these steps:
 This project is **open-source** and available under the **MIT License**.
 
 ---
-
 ## 📢 Contact  
 📧 **Harsha Seshadri**  
 🔗 **GitHub**: [Harsha0304](https://github.com/Harsha0304)  
 🔗 **LinkedIn**: [Harsha Seshadri](https://www.linkedin.com/in/harsha-seshadri-86b7b1210/)  
 🔗 **Instagram**: [harsha.8050](https://www.instagram.com/harsha.8050/)  
-
 ---
-
 ⭐ **Star this repo** if you found it useful! 🚀  
-```
