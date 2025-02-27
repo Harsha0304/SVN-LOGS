@@ -1,40 +1,25 @@
 ```md
 # 🛠️ SVN Log Exporter - Flask Application 🚀
-A **Flask-based web application** that retrieves **SVN logs**, processes them, and exports the data as a **CSV file**. The application provides **real-time updates**, a **modern UI with animations**, and a **dynamic color-changing background** based on cursor movement.  
-
----
+A Fask-based web application that retrieves SVN logs, processes them, and exports the data as a CSV file. The application provides real-time updates, a modern UI with animations, and a dynamic color-changing background based on cursor movement.  
 
 ## 🌟 Features  
-✅ **Fetch SVN Logs** – Retrieves logs from any SVN repository.  
-✅ **Real-Time Process Updates** – Displays background processing in UI.  
-✅ **CSV Export** – Converts logs to CSV format for easy use.  
-✅ **Modern UI** – Clean design with animations and smooth effects.  
-✅ **Mouse-Interactive Background** – Dynamic background color changes based on cursor movement.  
-✅ **Mobile Responsive** – Works across all devices.  
+✅ Fetch SVN Logs – Retrieves logs from any SVN repository.  
+✅ Real-Time Process Updates – Displays background processing in UI.  
+✅ CSV Export – Converts logs to CSV format for easy use.  
+✅ Modern UI – Clean design with animations and smooth effects.  
+✅ Mouse-Interactive Background – Dynamic background color changes based on cursor movement.  
+✅ Mobile Responsive – Works across all devices.  
 
----
+### 1️⃣ **Clone the Repository**
 
-## 📷 Screenshots  
-🔹 *Coming Soon...*  
-
----
-
-## 🚀 Live Demo  
-👉 *[Deploy it on Render, Vercel, or GitHub Pages](https://pages.github.com/)*  
-
----
-
-## 🛠 Installation  
-
-### 1️⃣ **Clone the Repository**  
 ```sh
 git clone https://github.com/Harsha0304/SVN-LOGS.git
 cd SVN-LOGS
 ```
-
-### 2️⃣ **Install Dependencies**  
-Make sure you have **Python 3.x** installed. Then, install Flask:  
-```sh
+### 2️⃣ **Install Dependencies**
+Make sure you have **Python 3.6+** installed. Then, install Flask:  
+```
+sh
 pip install flask
 ```
 
@@ -42,15 +27,12 @@ pip install flask
 ```sh
 python app.py
 ```
-
 ### 4️⃣ **Access the App**  
 Open your browser and go to:  
 ```
 http://127.0.0.1:5000/
 ```
-
 ---
-
 ## ⚙️ How It Works  
 1️⃣ **User enters an SVN repository URL** in the web form.  
 2️⃣ **The app runs `svn log`**, fetches the data in XML format.  
