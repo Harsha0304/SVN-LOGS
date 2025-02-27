@@ -18,8 +18,7 @@ cd SVN-LOGS
 ```
 ### 2️⃣ **Install Dependencies**
 Make sure you have **Python 3.6+** installed. Then, install Flask:  
-```
-sh
+```sh
 pip install flask
 ```
 
