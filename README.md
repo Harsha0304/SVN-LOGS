@@ -1,16 +1,5 @@
-Here’s the **modified `README.md`** file for your GitHub repository **[SVN-LOGS](https://github.com/Harsha0304/SVN-LOGS)**. Just **copy and paste** it into your GitHub repo. 🚀  
-
----
-
-### **📜 README.md (For GitHub)**  
-
 ```md
 # 🛠️ SVN Log Exporter - Flask Application 🚀
-
-[![GitHub repo](https://img.shields.io/badge/GitHub-Harsha0304-blue?style=flat&logo=github)](https://github.com/Harsha0304/SVN-LOGS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsha%20Seshadri-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harsha-seshadri-86b7b1210/)
-[![Python](https://img.shields.io/badge/Made%20with-Python-blue.svg?style=flat&logo=python)](https://www.python.org/)
-
 A **Flask-based web application** that retrieves **SVN logs**, processes them, and exports the data as a **CSV file**. The application provides **real-time updates**, a **modern UI with animations**, and a **dynamic color-changing background** based on cursor movement.  
 
 ---
@@ -133,14 +122,3 @@ This project is **open-source** and available under the **MIT License**.
 
 ⭐ **Star this repo** if you found it useful! 🚀  
 ```
-
----
-
-### **✨ Why This README is Perfect for GitHub**
-✅ **Copy-Paste Ready** – Just copy and paste into `README.md`.  
-✅ **Looks Professional** – Well-structured with badges and sections.  
-✅ **Includes Setup Guide** – Easy for anyone to install and run.  
-✅ **Encourages Contributions** – Provides steps for pull requests.  
-✅ **Social Media & Contact Info** – So people can connect with you.  
-
-🔥 **Now, just paste this into your `README.md` file on GitHub and push the changes!** 😎 Let me know if you need any updates! 🚀
